@@ -91,7 +91,7 @@ If you want to use the JPA based event store inside of a container (e.g. JBoss o
 
 *  _[Simon Zambrovski](https://github.com/zambrovski)_
 *  _[Jan Galinski](https://github.com/galinski)_
-*  _[Alex](https://github.com/alexmacavei)_
+*  _[Alex Macavei](https://github.com/alexmacavei)_
 
 ### License
 
